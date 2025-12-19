@@ -9,8 +9,8 @@
 - **Sales Forecasting for Replenishment Using Classical Time Series Models (Holt–Winters & SARIMA)**  
   Demand forecasting to support order planning with Holt–Winters and SARIMA models.
 
-- **Airbnb Occupancy Rate Forecasting Pipeline**  
-  End‑to‑end ML pipeline for predicting Airbnb occupancy: data cleaning, feature engineering, multiple models and evaluation.
+- **[Airbnb Occupancy Rate Forecasting Pipeline](https://github.com/amirarzy/airbnb-occupancy-forecasting)**
+  End-to-end ML pipeline for predicting Airbnb occupancy: data cleaning, feature engineering, multiple models and evaluation.
 
 - **An Investigation on User Behavior in Social Commerce Platforms: A Text Analytics Approach**  
   Text analytics study on user behavior in social commerce platforms, based on an academic research work.
