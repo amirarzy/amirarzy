@@ -3,8 +3,9 @@
 - **Incremental Feature Selection Framework for Real-Time Stock Price Forecasting Using Deep Time Series Models**  
   A deep time series framework for real-time stock price forecasting with incremental feature selection.
 
-- **Recommender System for Dead Stock Inventory Based on Product Grouping**  
+- **[Recommender System for Dead Stock Inventory Based on Product Grouping](https://github.com/amirarzy/dead-stock-recommender)**  
   A recommendation engine to promote slow-moving / dead‑stock inventory items using product category similarity.
+
 
 - **Sales Forecasting for Replenishment Using Classical Time Series Models (Holt–Winters & SARIMA)**  
   Demand forecasting to support order planning with Holt–Winters and SARIMA models.
