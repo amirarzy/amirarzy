@@ -7,8 +7,9 @@
   A recommendation engine to promote slow-moving / dead‑stock inventory items using product category similarity.
 
 
-- **Sales Forecasting for Replenishment Using Classical Time Series Models (Holt–Winters & SARIMA)**  
+- **[Sales Forecasting for Replenishment Using Classical Time Series Models (Holt–Winters & SARIMA)](https://github.com/amirarzy/sales-forecasting-holtwinters-sarima)**  
   Demand forecasting to support order planning with Holt–Winters and SARIMA models.
+
 
 - **[Airbnb Occupancy Rate Forecasting Pipeline](https://github.com/amirarzy/airbnb-occupancy-forecasting)**  
   End‑to‑end ML pipeline for predicting Airbnb occupancy: data cleaning, feature engineering, multiple models and evaluation.
