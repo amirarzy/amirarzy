@@ -32,7 +32,7 @@ Production-grade ELT architecture for ingesting, transforming and modeling minut
 
 ---
 
-### 🔹 [Incremental Feature Selection for Real-Time Stock Forecasting](https://github.com/amirarzy)
+### 🔹 [Incremental Feature Selection for Real-Time Stock Forecasting]
 
 Deep time series forecasting framework built on engineered data pipelines.
 
@@ -44,7 +44,7 @@ Deep time series forecasting framework built on engineered data pipelines.
 
 ---
 
-### 🔹 [Recommender System for Dead Stock Inventory](https://github.com/amirarzy)
+### 🔹 [Recommender System for Dead Stock Inventory](https://github.com/amirarzy/dead-stock-recommender)
 
 Recommendation engine for promoting slow-moving inventory using product similarity modeling.
 
@@ -55,7 +55,7 @@ Recommendation engine for promoting slow-moving inventory using product similari
 
 ---
 
-### 🔹 [Sales Forecasting (Holt–Winters & SARIMA)](https://github.com/amirarzy)
+### 🔹 [Sales Forecasting (Holt–Winters & SARIMA)](https://github.com/amirarzy/sales-forecasting-holtwinters-sarima)
 
 Classical time series forecasting for demand planning and replenishment.
 
