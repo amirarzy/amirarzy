@@ -67,6 +67,33 @@ Classical time series forecasting for demand planning and replenishment.
 
 ---
 
+### 🔹 [Airbnb Occupancy Forecasting Pipeline](https://github.com/amirarzy/airbnb-occupancy-forecasting)
+
+End-to-end ML pipeline for occupancy rate prediction.
+
+- Data cleaning & feature engineering  
+- Multiple forecasting models  
+- Evaluation & performance comparison  
+
+**Tech:** Python · Time Series · ML  
+
+---
+
+# 📊 Applied Analytics & Research
+
+### 🔹 [Social Commerce Text Analytics Study](https://github.com/amirarzy/social-commerce-text-analytics)
+
+Text analytics research on user behavior in social commerce platforms.
+
+- NLP preprocessing & feature extraction  
+- Behavioral pattern analysis  
+- Academic research-driven methodology  
+
+**Tech:** Python · NLP · Text Analytics  
+
+
+---
+
 ## 🎯 What I'm Looking For
 
 Seeking Data Engineering Internship / Afstudeerstage / Part-time roles  
