@@ -1,3 +1,11 @@
+## 👋 Amir Arzy
+
+MSc Data Science & Society student @ Tilburg University  
+Focused on Data Engineering & scalable ELT pipelines
+
+I build production-ready ETL/ELT systems and real-time forecasting pipelines using Python, PostgreSQL, Airflow and dbt.
+
+
 ## 🔬 Selected Projects
 
 
