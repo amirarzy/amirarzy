@@ -1,6 +1,5 @@
 ## 🔬 Selected Projects
 
----
 
 ### 📈 [Real-Time Stock ELT Pipeline](https://github.com/amirarzy/real-time-stock-elt-pipeline)
 Production-ready ELT architecture for ingesting, transforming and modeling minute-level stock data.
@@ -23,7 +22,7 @@ Recommendation engine for promoting slow-moving inventory using similarity model
 
 ---
 
-### 📦 [Sales Forecasting with Holt-Winters & SARIMA](https://github.com/amirarzy/sales-forecasting-time-series)
+### 📦 [Sales Forecasting with Holt-Winters & SARIMA](https://github.com/amirarzy/sales-forecasting-holtwinters-sarima)
 Classical time series forecasting for inventory replenishment.
 
 **Tech:** Python · Statsmodels · Time Series · Forecasting
