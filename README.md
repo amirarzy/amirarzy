@@ -1,50 +1,80 @@
-## 👋 Amir Arzy
+# 👋 Amir Arzy
 
 MSc Data Science & Society student @ Tilburg University  
-Focused on Data Engineering & scalable ELT pipelines
+Focused on Data Engineering & scalable ELT pipelines  
 
-I build production-ready ETL/ELT systems and real-time forecasting pipelines using Python, PostgreSQL, Airflow and dbt.
-
-
-## 🔬 Selected Projects
-
-
-### 📈 [Real-Time Stock ELT Pipeline](https://github.com/amirarzy/real-time-stock-elt-pipeline)
-Production-ready ELT architecture for ingesting, transforming and modeling minute-level stock data.
-
-**Tech:** Python · PostgreSQL · Airflow · dbt
+I build production-ready ETL/ELT systems and real-time forecasting pipelines using Python, PostgreSQL, Airflow and dbt.  
+Combining engineering with machine learning to design reliable data infrastructures that power analytics and forecasting workflows.
 
 ---
 
-### 📊 [Incremental Feature Selection for Real-Time Stock Price Forecasting]
-Deep time series framework with incremental feature selection for financial forecasting.
+## 🛠 Core Stack
 
-**Tech:** PyTorch · Feature Engineering · Deep Learning · Time Series
-
----
-
-### 🛒 [Recommender System for Dead Stock Inventory](https://github.com/amirarzy/dead-stock-recommender)
-Recommendation engine for promoting slow-moving inventory using similarity modeling.
-
-**Tech:** Python · Similarity Models · Data Analysis
+**Data Engineering:** ETL/ELT · dbt · Airflow · PostgreSQL  
+**Languages:** Python · SQL  
+**Analytics & ML:** Time Series Forecasting · Deep Learning · Feature Engineering  
+**Infrastructure:** Linux · Git · Systemd  
 
 ---
 
-### 📦 [Sales Forecasting with Holt-Winters & SARIMA](https://github.com/amirarzy/sales-forecasting-holtwinters-sarima)
-Classical time series forecasting for inventory replenishment.
+## 🚀 Selected Projects
 
-**Tech:** Python · Statsmodels · Time Series · Forecasting
+### 🔹 [Real-Time Stock ELT Pipeline](https://github.com/amirarzy/real-time-stock-elt-pipeline)
+
+Production-grade ELT architecture for ingesting, transforming and modeling minute-level stock data.
+
+- Automated ingestion into PostgreSQL  
+- Transformation layer with dbt  
+- Orchestration via Airflow  
+- Designed for scalability and reliability  
+
+**Tech:** Python · PostgreSQL · Airflow · dbt  
 
 ---
 
-### 🏠 [Airbnb Occupancy Rate Forecasting Pipeline](https://github.com/amirarzy/airbnb-occupancy-forecasting)
-End-to-end ML pipeline for predicting Airbnb occupancy rates.
+### 🔹 [Incremental Feature Selection for Real-Time Stock Forecasting](https://github.com/amirarzy)
 
-**Tech:** Python · Feature Engineering · ML Models · Evaluation
+Deep time series forecasting framework built on engineered data pipelines.
+
+- Incremental feature selection for streaming data  
+- Deep learning models for short-horizon prediction  
+- Designed to integrate with structured ELT workflows  
+
+**Tech:** Python · PyTorch · Time Series  
 
 ---
 
-### 🧠 [User Behavior Analysis in Social Commerce](https://github.com/amirarzy/social-commerce-text-analytics)
-Text analytics study on user behavior in social commerce platforms.
+### 🔹 [Recommender System for Dead Stock Inventory](https://github.com/amirarzy)
 
-**Tech:** NLP · Text Mining · Python · Data Analysis
+Recommendation engine for promoting slow-moving inventory using product similarity modeling.
+
+- Product grouping & similarity scoring  
+- Inventory optimization support  
+
+**Tech:** Python · ML · SQL  
+
+---
+
+### 🔹 [Sales Forecasting (Holt–Winters & SARIMA)](https://github.com/amirarzy)
+
+Classical time series forecasting for demand planning and replenishment.
+
+- SARIMA modeling  
+- Holt–Winters seasonal forecasting  
+- Model evaluation & backtesting  
+
+**Tech:** Python · Statsmodels  
+
+---
+
+## 🎯 What I'm Looking For
+
+Seeking Data Engineering Internship / Afstudeerstage / Part-time roles  
+Available now — Graduation ~ Summer 2026  
+Netherlands (Eindhoven · Utrecht · Amsterdam · Rotterdam)
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/amirarzy/)  
