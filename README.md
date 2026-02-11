@@ -79,8 +79,6 @@ End-to-end ML pipeline for occupancy rate prediction.
 
 ---
 
-# 📊 Applied Analytics & Research
-
 ### 🔹 [Social Commerce Text Analytics Study](https://github.com/amirarzy/social-commerce-text-analytics)
 
 Text analytics research on user behavior in social commerce platforms.
