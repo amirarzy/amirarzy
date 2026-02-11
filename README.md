@@ -1,9 +1,9 @@
 ## 🔬 Selected Projects
-### 📈 Real-Time Stock ELT Pipeline
-Production-ready ELT architecture for ingesting, transforming and modeling minute-level stock data.
+
+- **[Real-Time Stock ELT Pipeline](https://github.com/amirarzy/real-time-stock-elt-pipeline)**  
+  A recommendation engine to promote slow-moving / dead‑stock inventory items using product category similarity.
 
 **Tech:** Python · PostgreSQL · Airflow · dbt  
-🔗 https://github.com/amirarzy/real-time-stock-elt-pipeline
 
 - **Incremental Feature Selection Framework for Real-Time Stock Price Forecasting Using Deep Time Series Models**  
   A deep time series framework for real-time stock price forecasting with incremental feature selection.
