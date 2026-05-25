@@ -32,7 +32,7 @@ Production-grade ELT architecture for ingesting, transforming and modeling minut
 
 ---
 
-### 🔹 [Incremental Feature Selection for Real-Time Stock Forecasting]
+### 🔹 [Incremental Feature Selection for Real-Time Stock Forecasting](https://github.com/amirarzy/incremental-feature-selection-for-real-time-stock-forecasting/)
 
 Deep time series forecasting framework built on engineered data pipelines.
 
