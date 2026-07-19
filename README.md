@@ -1,105 +1,69 @@
 # 👋 Amir Arzy
 
-MSc Data Science & Society student @ Tilburg University  
-Focused on Data Engineering & scalable ELT pipelines  
+**Junior Data Engineer | MSc Data Science & Society @ Tilburg University**  
+📍 Based in Netherlands 
+🏆 **Nominated for Best Thesis**
 
-I build production-ready ETL/ELT systems and real-time forecasting pipelines using Python, PostgreSQL, Airflow and dbt.  
-Combining engineering with machine learning to design reliable data infrastructures that power analytics and forecasting workflows.
+Junior Data Engineer with a Data Analyst background, skilled in Python, SQL, PostgreSQL, Airflow, and dbt for data pipelines and transformation. Currently deep-diving into the **Azure Data Ecosystem (ADF, Databricks, Synapse)** to build scalable, cloud-native data solutions.
 
 ---
 
-## 🛠 Core Stack
+## 🛠 Tech Stack & Skills
 
-**Data Engineering:** ETL/ELT · dbt · Airflow · PostgreSQL  
-**Languages:** Python · SQL  
-**Analytics & ML:** Time Series Forecasting · Deep Learning · Feature Engineering  
-**Infrastructure:** Linux · Git · Systemd  
+**Core Engineering:** Python · SQL · PostgreSQL · Apache Airflow · dbt · ETL/ELT · Data Pipelines  
+**Cloud (Active Learning):** Azure Data Factory · Azure Data Lake Storage Gen2 · Databricks  
+**Analytics & BI:** Power BI · Excel · Time Series Forecasting · Feature Engineering  
+**DevOps & Quality:** Git · GitHub · Azure Pipelines (CI/CD) · Pytest · Ruff  
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🔹 [Real-Time Stock ELT Pipeline](https://github.com/amirarzy/real-time-stock-elt-pipeline)
-
-Production-grade ELT architecture for ingesting, transforming and modeling minute-level stock data.
-
-- Automated ingestion into PostgreSQL  
-- Transformation layer with dbt  
-- Orchestration via Airflow  
-- Designed for scalability and reliability  
-
-**Tech:** Python · PostgreSQL · Airflow · dbt  
+### 🔹 [Physio Sports Azure Data Platform](https://github.com/amirarzy/physio-sports-azure-data-platform-roadmap)
+An Azure-centric data platform designed for medical & sports clinic analytics. This project focuses on building a robust foundation for cloud-based data engineering.
+- **Current MVP:** Modular Python pipeline with Shamsi date parsing, automated validation, and monthly batch partitioning.
+- **Quality Ops:** Integrated `Ruff` for linting and `Pytest` for unit testing.
+- **CI/CD:** Automated workflows via `Azure Pipelines`.
+- **Roadmap:** Integration with **Azure Databricks** and **Azure Data Factory** for cloud orchestration.
+**Tech:** Python · Pandas · Azure Pipelines · Pytest · Ruff
 
 ---
 
-### 🔹 [Incremental Feature Selection for Real-Time Stock Forecasting](https://github.com/amirarzy/incremental-feature-selection-for-real-time-stock-forecasting/)
+### 🔹 [Real-Time Stock ELT Pipeline](https://github.com/amirarzy/real-time-stock-elt-pipeline)
+Production-grade ELT architecture for ingesting and modeling minute-level financial data.
+- Automated ingestion into PostgreSQL and transformation layer with **dbt**.
+- Orchestrated via **Airflow** for high reliability.
+**Tech:** Python · PostgreSQL · Airflow · dbt
 
+---
+
+### 🔹 [Incremental Feature Selection for Forecasting](https://github.com/amirarzy/incremental-feature-selection-for-real-time-stock-forecasting/)
 Deep time series forecasting framework built on engineered data pipelines.
-
-- Incremental feature selection for streaming data  
-- Deep learning models for short-horizon prediction  
-- Designed to integrate with structured ELT workflows  
-
-**Tech:** Python · PyTorch · Time Series  
+- Designed incremental feature selection for streaming data environments.
+- Developed using **PyTorch** for short-horizon predictions.
+**Tech:** Python · PyTorch · Time Series
 
 ---
 
 ### 🔹 [Recommender System for Dead Stock Inventory](https://github.com/amirarzy/dead-stock-recommender)
-
-Recommendation engine for promoting slow-moving inventory using product similarity modeling.
-
-- Product grouping & similarity scoring  
-- Inventory optimization support  
-
-**Tech:** Python · ML · SQL  
+ML-driven engine for inventory optimization, focusing on promoting slow-moving stock via product similarity.
+**Tech:** Python · ML · SQL
 
 ---
 
 ### 🔹 [Sales Forecasting (Holt–Winters & SARIMA)](https://github.com/amirarzy/sales-forecasting-holtwinters-sarima)
-
-Classical time series forecasting for demand planning and replenishment.
-
-- SARIMA modeling  
-- Holt–Winters seasonal forecasting  
-- Model evaluation & backtesting  
-
-**Tech:** Python · Statsmodels  
-
----
-
-### 🔹 [Airbnb Occupancy Forecasting Pipeline](https://github.com/amirarzy/airbnb-occupancy-forecasting)
-
-End-to-end ML pipeline for occupancy rate prediction.
-
-- Data cleaning & feature engineering  
-- Multiple forecasting models  
-- Evaluation & performance comparison  
-
-**Tech:** Python · Time Series · ML  
-
----
-
-### 🔹 [Social Commerce Text Analytics Study](https://github.com/amirarzy/social-commerce-text-analytics)
-
-Text analytics research on user behavior in social commerce platforms.
-
-- NLP preprocessing & feature extraction  
-- Behavioral pattern analysis  
-- Academic research-driven methodology  
-
-**Tech:** Python · NLP · Text Analytics  
-
+Classical time series forecasting for demand planning, featuring SARIMA and Holt-Winters modeling.
+**Tech:** Python · Statsmodels
 
 ---
 
 ## 🎯 What I'm Looking For
 
-Seeking Data Engineering Internship / Afstudeerstage / Part-time roles  
-Available now — Graduation ~ Summer 2026  
-Netherlands (Eindhoven · Utrecht · Amsterdam · Rotterdam)
+I am seeking a **Data Engineering Internship**, **Afstudeerstage**, or **Part-time role** where I can apply my SQL/Python skills and my growing expertise in Azure.  
+📍 Locations: Eindhoven · Utrecht · Amsterdam · Rotterdam · Tilburg (or Remote)
 
 ---
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/amirarzy/)  
+[LinkedIn](https://www.linkedin.com/in/amirarzy/) · [GitHub](https://github.com/amirarzy)
