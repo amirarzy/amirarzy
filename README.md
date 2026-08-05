@@ -19,7 +19,7 @@ Junior Data Engineer with a Data Analyst background, skilled in Python, SQL, Pos
 
 ## 🚀 Selected Projects
 
-### 🔹 [Physio Sports Azure Data Platform](https://github.com/amirarzy/physio-sports-azure-data-platform-roadmap)
+### 🔹 [Physio Sports Azure Data Platform](https://github.com/amirarzy/physio-sports-azure-data-platform)
 An Azure-centric data platform designed for medical & sports clinic analytics. This project focuses on building a robust foundation for cloud-based data engineering.
 - **Current MVP:** Modular Python pipeline with Shamsi date parsing, automated validation, and monthly batch partitioning.
 - **Quality Ops:** Integrated `Ruff` for linting and `Pytest` for unit testing.
