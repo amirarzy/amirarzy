@@ -1,6 +1,6 @@
 # 👋 Amir Arzy
 
-**Junior Data Engineer | MSc Data Science & Society @ Tilburg University**  
+**Data Engineer | MSc Data Science & Society @ Tilburg University**  
 📍 Based in Netherlands 
 🏆 **Nominated for Best Thesis**
 
@@ -20,12 +20,17 @@ Junior Data Engineer with a Data Analyst background, skilled in Python, SQL, Pos
 ## 🚀 Selected Projects
 
 ### 🔹 [Physio Sports Azure Data Platform](https://github.com/amirarzy/physio-sports-azure-data-platform)
-An Azure-centric data platform designed for medical & sports clinic analytics. This project focuses on building a robust foundation for cloud-based data engineering.
-- **Current MVP:** Modular Python pipeline with Shamsi date parsing, automated validation, and monthly batch partitioning.
-- **Quality Ops:** Integrated `Ruff` for linting and `Pytest` for unit testing.
-- **CI/CD:** Automated workflows via `Azure Pipelines`.
-- **Roadmap:** Integration with **Azure Databricks** and **Azure Data Factory** for cloud orchestration.
-**Tech:** Python · Pandas · Azure Pipelines · Pytest · Ruff
+
+End-to-end Azure data engineering MVP built around a Medallion Architecture for operational sales, customer, and product data.
+
+- **Architecture:** ADLS Gen2 → Azure Data Factory → Bronze / Silver / Gold → Azure SQL
+- **Orchestration:** Metadata-driven ADF pipelines with reusable parent/child ingestion patterns
+- **Processing:** PySpark and Delta Lake transformations in Azure Databricks
+- **Data Quality:** Persian/Jalali handling, validation, entity resolution, rejected records, and financial reconciliation
+- **Serving Layer:** Curated Gold outputs published to Azure SQL analytical marts
+- **Reliability:** Pipeline monitoring, controlled failure/recovery testing, Ruff, Pytest, and Azure Pipelines CI
+
+**Tech:** Azure Data Factory · ADLS Gen2 · Azure Databricks · PySpark · Delta Lake · Azure SQL · Python · SQL · Azure DevOps
 
 ---
 
